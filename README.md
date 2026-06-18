@@ -161,7 +161,7 @@ Automates copying packages from a conda/pip environment into `lib/`:
 ![SpleeterGUI_app](/Spleeter_GUI.png)
 
 This project is an open-source C# desktop front-end.  
-Please consider donating to help pay for hosting and development: paypal.me/makenitso
+Please consider donating to help pay for hosting and development: https://www.paypal.com/donate/?hosted_button_id=DVGCZBQZCAFYU
 
-- Website: https://spleetergui.com
+- Website: https://github.com/mananpa4/SpleeterGui-Installer
 - Older versions: https://makenweb.com/#spleetergui
